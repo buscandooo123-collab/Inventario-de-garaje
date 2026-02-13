@@ -1,11 +1,14 @@
 {
-  "name": "Mi Garaje",
+  "id": "mi-garaje-inventario-2026",
+  "name": "Mi Garaje - Inventario",
   "short_name": "Mi Garaje",
   "description": "Inventario de cajas para tu garaje",
-  "start_url": ".",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#0a0a0f",
-  "theme_color": "#0a0a0f",
+  "theme_color": "#00d4aa",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "icon.png",
